@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/Glacier-Guard/Glacier Guard.v1i.darknet/train/images
+val: /content/drive/MyDrive/Glacier-Guard/Glacier Guard.v1i.darknet/valid/images
+test: /content/drive/MyDrive/Glacier-Guard/Glacier Guard.v1i.darknet/test/images
+nc: 3
+names: ['Lake Formation', 'Retreat Area', 'Water Runoff']
