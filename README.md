@@ -75,6 +75,7 @@ The YOLOv8 model achieved:
 - 👤 Akmal Ali
 - 📧 Email: akmal.aleee@email.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/akmal-ali-218322258/
+- 🔗 DataSet: https://drive.google.com/file/d/1g9LwTlJXrHytFmvp31erqZhAXF7W9A7O/view?usp=sharing
 
 
 
